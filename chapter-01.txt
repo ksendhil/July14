@@ -1,6 +1,4 @@
 Title
-
 It was a dark and stormy night.
-
 This is paragraph 2
-
+This is paragraph 3
